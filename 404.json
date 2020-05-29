@@ -1,0 +1,8 @@
+[
+    {
+        "id": "404",
+        "name": "404 PAGE NOT FOUND",
+        "headerColour": "linear-gradient(90deg,rgb(42,181,227),rgb(11,146,191))",
+        "description": "Please check your URL"
+    }
+]
