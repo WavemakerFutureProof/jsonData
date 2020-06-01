@@ -337,71 +337,117 @@
         "quizColour": "linear-gradient(90deg,rgb(11,146,191),rgb(42,181,227))",
         "quiz": [
             {
-                "id": "codingIntroductionQuiz1",
+                "id": "coding-intro-quiz",
+                "name": "Coding Introduction Quiz",
                 "status": 200, 
-                "name": "Coding Intro Quiz",
-                "quizColour": "linear-gradient(90deg,rgb(11,146,191),rgb(42,181,227))",
                 "questions": [
                     {
-                        "text": "Which of these is a programming languages?",
+                        "text": "What would you use to store a large list of single integers",
                         "type": "single_correct_answer",
                         "answers": [
                             {
                                 "id": 0,
-                                "text": "Amethyst",
-                                "correct": false
+                                "text": "a variable"
                             },
                             {
                                 "id": 1,
-                                "text": "Cordial",
-                                "correct": false
+                                "text": "an Array"
                             },
                             {
                                 "id": 2,
-                                "text": "Perl",
-                                "correct": true
+                                "text": "an Object"
+                            },
+                            {
+                                "id": 3,
+                                "text": "a while loop"
                             }
                         ]
                     },
                     {
-                        "text": "Which of these languages is not used with Web Development?",
+                        "text": "What is the common term for a problem in a piece of code",
                         "type": "single_correct_answer",
                         "answers": [
                             {
                                 "id": 0,
-                                "text": "C#",
-                                "correct": false
+                                "text": "a Bug"  
                             },
                             {
                                 "id": 1,
-                                "text": "Java",
-                                "correct": true
+                                "text": "a Virus"
                             },
                             {
                                 "id": 2,
-                                "text": "JavaScript",
-                                "correct": false
+                                "text": "a Disease"
+                            },
+                            {
+                                "id": 3,
+                                "text": "a Pandemic"
                             }
                         ]
                     },
                     {
-                        "text": "Which is these statements would be the best to use with 10 conditions?",
+                        "text": "Which of these Programming languages is not real?",
                         "type": "single_correct_answer",
                         "answers": [
                             {
                                 "id": 0,
-                                "text": "If / Else",
-                                "correct": false
+                                "text": "Boo"  
                             },
                             {
                                 "id": 1,
-                                "text": "If / Else / Else If",
-                                "correct": false
+                                "text": "Dog"
                             },
                             {
                                 "id": 2,
-                                "text": "Switch",
-                                "correct": true
+                                "text": "HopScotch"
+                            },
+                            {
+                                "id": 3,
+                                "text": "vampire"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "What would you use to iterate through an array of 1000 numbers?",
+                        "type": "single_correct_answer",
+                        "answers": [
+                            {
+                                "id": 0,
+                                "text": "1000 if statements"  
+                            },
+                            {
+                                "id": 1,
+                                "text": "a Switch Statement with 1000 cases"
+                            },
+                            {
+                                "id": 2,
+                                "text": "a For Loop"
+                            },
+                            {
+                                "id": 3,
+                                "text": "it's impossible with that many numbers"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Which style of syntax writing is the following text called? ( thisIsAVariableName)",
+                        "type": "single_correct_answer",
+                        "answers": [
+                            {
+                                "id": 0,
+                                "text": "cat spelling"  
+                            },
+                            {
+                                "id": 1,
+                                "text": "dolphin language"
+                            },
+                            {
+                                "id": 2,
+                                "text": "camel case"
+                            },
+                            {
+                                "id": 3,
+                                "text": "elephant words"
                             }
                         ]
                     }
