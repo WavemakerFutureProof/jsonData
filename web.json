@@ -339,6 +339,7 @@
             {
                 "id": "codingIntroductionQuiz1",
                 "name": "Coding Intro Quiz",
+                "status": 200, 
                 "questions": [
                     {
                         "text": "Which of these is a programming languages?",
