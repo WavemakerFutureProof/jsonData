@@ -71,43 +71,48 @@
         ],
         "bannerOne": [
             {
-                "id": "what-is-code-banner",
+                "id": "what-is-web-banner",
                 "image": "/images/headerImages/codingBanner1.png",
-                "text": "So what exactly is Code?",
-                "desc": "Learn the fundamentals of coding, and how it is used to create some of the most powerful machines , applications and robots in the world!",
+                "text": "So how does web development work?",
+                "desc": "Now you've learned the basics of web development, it's time to learn the the details of what makes a website function! ",
                 "colour": "linear-gradient(90deg,rgb(11,146,191),rgb(42,181,227))"
             }
         ],
         "content2": [
             {
-                "id": "code-precice",
+                "id": "explained",
                 "image": "/images/mainContentImages/robotics2.svg",
-                "text": "Code is a precise set of instructions explaining exactly what you want the computer to do at any given moment. "
+                "text": "As previously mentioned, web development is made of 3 parts, which all link together to provide a website with complete functionality."
             },
             {
-                "id": "code-react",
+                "id": "explained-2",
                 "image": "/images/mainContentImages/robotics2.svg",
-                "text": "Computers need to know exactly how to react to things, whether clicking a button or tapping the screen."
+                "text": "These parts are named the front-end, the back-end and the design."
             },
             {
-                "id": "code-direction",
+                "id": "back-end-explained",
                 "image": "/images/mainContentImages/robotics2.svg",
-                "text": "It’s like giving directions to someone on how to get somewhere."
+                "text": "Back end development focuses on how the site works behind the scenes. The back end programmers responsibilities will likely include creating code to interact with a database, keeping the site secure and communicating with the front-end of the site."
             },
             {
-                "id": "code-consider",
+                "id": "front-end-explained",
                 "image": "/images/mainContentImages/robotics2.svg",
-                "text": "You don’t only need to give the directions, you also have to give solutions for other elements that need to be considered."
+                "text": "Front end development focus on building the interface for a website. The stuff that the user will see and use, like buttons, navigation and images! The front end developer will program the interface with the use of HTML/CSS/JavaScript so that a user can interact with it directly."
             },
             {
-                "id": "code-example",
+                "id": "web-design-explained",
                 "image": "/images/mainContentImages/robotics2.svg",
-                "text": "For example, what if there is a traffic jam? Or what if your car breaks down?"
+                "text": "A web designers main role is to create a suitable web design. Their jobs may include designing the site for the users experience and usability. Designers often use software such as PhotoShop and Illustrator to create detailed designs for a developer to use."
             },
             {
-                "id": "code-circumstance",
+                "id": "web-domain",
                 "image": "/images/mainContentImages/robotics2.svg",
-                "text": "You need to tell the computer what to do in these circumstances and how to behave."
+                "text": "Once all 3 parts are put together the website is then ready to go live! To do this, a domain name is required which can be obtained from a domain registrar. These give a website a unique online name which can be found in the form of its URL."
+            },
+            {
+                "id": "web-hosting",
+                "image": "/images/mainContentImages/robotics2.svg",
+                "text": "The final step is hosting the site! Web hosts exist all around the world and use a domain to connect the site to internet so it can be accessed across the world! "
             }
 
         ],
