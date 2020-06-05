@@ -11,58 +11,63 @@
             {
                 "id": "intro-text",
                 "image": "/images/mainContentImages/codingImage1.png",
-                "text": "Coding is all around us! It’s the way we interact with technology, and the results are everywhere to see!"
+                "text": "Websites are an integral part of modern technology! they provide businesses with an online presence and provide as an easy place for people to find information!"
             },
             {
                 "id": "code-electricity",
                 "image": "/images/mainContentImages/codingImage2.png",
-                "text": "Nowadays, almost everything that is powered by electricity uses code."
+                "text": "Most people know what a website is, but a lot don't understand how they work."
             },
             {
-                "id": "code-items",
+                "id": "front-end-back-end-design",
                 "image": "/images/mainContentImages/codingImage3.png",
-                "text": "Personal items like: Smart Phones Smart Watches Smart Speakers"
+                "text": "Websites are very complex, but they can broken into 3 parts. The front-end , the back-end and the design."
             },
             {
-                "id": "code-home-appliances",
+                "id": "back-end",
                 "image": "/images/mainContentImages/codingImage4.png",
-                "text": "Things around the home like: Microwaves Fridges Washing machines"
+                "text": "The back end or the server side is the part of a website you don't see. The back-end communicates with the front end to send and recieve information so it can be displayed!"
             },
             {
-                "id": "code-automotive",
+                "id": "back-end-cont",
                 "image": "/images/mainContentImages/codingImage5.png",
-                "text": "Even big things like: Cars Trains Planes ...and rockets!"
+                "text": "The back end also works to keep our websites secure, by keeping our personal information safe and storing it in a secure location!"
             },
             {
-                "id": "code-tv",
+                "id": "front-end",
                 "image": "/images/mainContentImages/robotics2.svg",
-                "text": "When you watch your favourite box set on your TV streaming service,"
+                "text": "The front end us the part of the website you do see! The front end developer focuses on all sides of the site that the user will directly interact with."
             },
             {
-                "id": "code-tweet",
+                "id": "front-end-cont",
                 "image": "/images/mainContentImages/robotics2.svg",
-                "text": "Send a tweet, email or message"
+                "text": "This includes text, images, navigation, buttons, colours, animations and much more!"
             },
             {
-                "id": "code-console",
+                "id": "web-design",
                 "image": "/images/mainContentImages/robotics2.svg",
-                "text": "When you play on your latest games console."
+                "text": "The designer is the person who figure out how a website will look. Including how things are laid out, what colours will be used and everything inbetween!"
             },
             {
-                "id": "code-microwave",
+                "id": "web-design-cont",
                 "image": "/images/mainContentImages/robotics2.svg",
-                "text": "Or even warm up your dinner in the microwave."
+                "text": "The designer will then hand their design over to the front end developer, who will use this to build the front end functionality for the site."
             },
             {
-                "id": "code-lines",
+                "id": "web-host",
                 "image": "/images/mainContentImages/robotics2.svg",
-                "text": "It happens because of lines of code."
+                "text": "Once a website is fully developed, it is then ready to be hosted on the web!"
             },
             {
-                "id": "code-rely",
+                "id": "web-host-cont",
                 "image": "/images/mainContentImages/robotics2.svg",
-                "text": "They all rely on code to make them work."
-            } 
+                "text": "To do this, a web server will run the sites code behind the scenes and make it so it can be accessed on the live web!"
+            },
+            {
+                "id": "web-host-cont2",
+                "image": "/images/mainContentImages/robotics2.svg",
+                "text": "The site can be accessed by it's 'URL' which is its unique web address. An example is Facebook who use 'www.Facebook.com' for their URL. "
+            }
         ],
         "bannerOne": [
             {
