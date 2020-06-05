@@ -120,39 +120,39 @@
             {
                 "id": "types-of-languages",
                 "image": "/images/headerImages/codingBanner1.png",
-                "text": "What kind of languages are there?",
-                "desc": "That's right, there are thousands of programming languages in existence! Now it's time to learn about a few of them and what they do!",
+                "text": "What kind of languages are used for web?",
+                "desc": "From HTML to C#. Find out what languages are used in web and what they're used for.",
                 "colour": "linear-gradient(90deg,rgb(11,146,191),rgb(42,181,227))"
             }
         ],
         "content3": [
             {
-                "id": "java",
-                "mainHeader": "Java",
+                "id": "HTML",
+                "mainHeader": "HTML",
                 "image": "/images/mainContentImages/codingImage1.png",
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
                 "headingText3": "Uses: ",
                 "text1": "Very High",
-                "text2": "Moderate to Difficult",
+                "text2": "Easy",
                 "text3": [
                     {
-                        "text": "Apps for Mac, Windows and Linux"
+                        "text": "Define the structure of a website"
                     },
                     {
-                        "text": "Web Applications"
+                        "text": "Define the layout of a website"
                     },
                     {
-                        "text": "Mobile"
+                        "text": "Ultimately create web pages"
                     },
                     {
-                        "text": "Embedded Systems"
+                        "text": "HTML5 games"
                     }
                 ]
             },
             {
-                "id": "python",
-                "mainHeader": "Python",
+                "id": "CSS",
+                "mainHeader": "CSS",
                 "image": "/images/mainContentImages/codingImage1.png",
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
@@ -161,40 +161,43 @@
                 "text2": "Easy to Moderate",
                 "text3": [
                     {
-                        "text": "Web Applications"
+                        "text": "front-end styling"
                     },
                     {
-                        "text": "Artificial Intelligence"
+                        "text": "Styling of a website"
+                    },
+                    {
+                        "text": "Make websites responsive across all devices"
                     }
                 ]
             },
             {
-                "id": "c",
-                "mainHeader": "C / C# / C++",
+                "id": "JavaScript",
+                "mainHeader": "JavaScript",
                 "image": "/images/mainContentImages/codingImage1.png",
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
                 "headingText3": "Uses: ",
-                "text1": "Medium to High",
-                "text2": "Moderate to Difficult",
+                "text1": "Very High",
+                "text2": "Easy to Difficult",
                 "text3": [
                     {
-                        "text": "Windows Applications"
+                        "text": "Front-end Development"
                     },
                     {
-                        "text": "Web Services"
+                        "text": "Adding interactivity to websites"
                     },
                     {
-                        "text": "Hardware Drivers"
+                        "text": "Game Development"
                     },
                     {
-                        "text": "Proprietary Services"
+                        "text": "Creating mobile and web apps"
                     }
                 ]
             },
             {
-                "id": "javascript",
-                "mainHeader": "JavaScript",
+                "id": "PHP",
+                "mainHeader": "PHP",
                 "image": "/images/mainContentImages/codingImage1.png",
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
@@ -211,8 +214,8 @@
                 ]
             },
             {
-                "id": "visual-basic-net",
-                "mainHeader": "Visual Basic .Net",
+                "id": "C#",
+                "mainHeader": "C#",
                 "image": "/images/mainContentImages/codingImage1.png",
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
@@ -229,7 +232,7 @@
                 ]
             },
             {
-                "id": "sql",
+                "id": "SQL",
                 "mainHeader": "SQL",
                 "image": "/images/mainContentImages/codingImage1.png",
                 "headingText1": "Popularity: ",
@@ -244,8 +247,8 @@
                 ]
             },
             {
-                "id": "php",
-                "mainHeader": "PHP",
+                "id": "Python",
+                "mainHeader": "Python",
                 "image": "/images/mainContentImages/codingImage1.png",
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
