@@ -203,13 +203,16 @@
                 "headingText2": "Ease of Use: ",
                 "headingText3": "Uses: ",
                 "text1": "Very High",
-                "text2": "Moderate",
+                "text2": "Moderate to Difficult",
                 "text3": [
                     {
-                        "text": "Local Applications"
+                        "text": "Server-side development"
                     },
                     {
-                        "text": "Web Applications"
+                        "text": "Database programming"
+                    },
+                    {
+                        "text": "Dynamic webpages"
                     }
                 ]
             },
@@ -220,11 +223,14 @@
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
                 "headingText3": "Uses: ",
-                "text1": "Low",
+                "text1": "Moderate",
                 "text2": "Moderate",
                 "text3": [
                     {
-                        "text": "Web Applications"
+                        "text": "Server-side development"
+                    },
+                    {
+                        "text": "Dynamic webpages"
                     },
                     {
                         "text": "Windows Applications"
@@ -238,11 +244,14 @@
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
                 "headingText3": "Uses: ",
-                "text1": "Very High",
-                "text2": "Easy to Moderate",
+                "text1": "High",
+                "text2": "Moderate to Difficult",
                 "text3": [
                     {
                         "text": "Database Queries"
+                    },
+                    {
+                        "text": "Communicating with Databases"
                     }
                 ]
             },
@@ -253,89 +262,14 @@
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
                 "headingText3": "Uses: ",
-                "text1": "High",
-                "text2": "Easy",
-                "text3": [
-                    {
-                        "text": "Web Applications"
-                    }
-                ]
-            },
-            {
-                "id": "objective-c",
-                "mainHeader": "Objective C",
-                "image": "/images/mainContentImages/codingImage1.png",
-                "headingText1": "Popularity: ",
-                "headingText2": "Ease of Use: ",
-                "headingText3": "Uses: ",
-                "text1": "High",
-                "text2": "Difficult",
-                "text3": [
-                    {
-                        "text": "Mobile Applications"
-                    },
-                    {
-                        "text": "Apple IOS devices: iPhone, iPad"
-                    }
-                ]
-            },
-            {
-                "id": "swift",
-                "mainHeader": "Swift",
-                "image": "/images/mainContentImages/codingImage1.png",
-                "headingText1": "Popularity: ",
-                "headingText2": "Ease of Use: ",
-                "headingText3": "Uses: ",
-                "text1": "Medium",
+                "text1": "Moderate",
                 "text2": "Moderate to Difficult",
                 "text3": [
                     {
-                        "text": "Apple Mobile and Desktop Apps"
+                        "text": "Server side Programming"
                     },
                     {
-                        "text": "Macbook"
-                    },
-                    {
-                        "text": "iPhone"
-                    },
-                    {
-                        "text": "iPad"
-                    }
-                ]
-            },
-            {
-                "id": "ruby",
-                "mainHeader": "Ruby",
-                "image": "/images/mainContentImages/codingImage1.png",
-                "headingText1": "Popularity: ",
-                "headingText2": "Ease of Use: ",
-                "headingText3": "Uses: ",
-                "text1": "High",
-                "text2": "Easy to Moderate",
-                "text3": [
-                    {
-                        "text": "Web Applications"
-                    },
-                    {
-                        "text": "Scripting"
-                    }
-                ]
-            },
-            {
-                "id": "perl",
-                "mainHeader": "Perl",
-                "image": "/images/mainContentImages/codingImage1.png",
-                "headingText1": "Popularity: ",
-                "headingText2": "Ease of Use: ",
-                "headingText3": "Uses: ",
-                "text1": "High",
-                "text2": "Easy to Moderate",
-                "text3": [
-                    {
-                        "text": "Local Applications"
-                    },
-                    {
-                        "text": "Web Applications"
+                        "text": "HTTP Requests"
                     }
                 ]
             }
@@ -541,7 +475,7 @@
                     {
                         "link": "https://www.codecademy.com/",
                         "text": "Codecademy",
-                        "desc": "A fun way to educate people in coding and web development!",
+                        "desc": "A fun way to educate yourself in web development!",
                         "type": "interactive"
                     },
                     {
@@ -563,66 +497,64 @@
                         "type": "interactive"
                     },
                     {
-                        "link": "https://scratch.mit.edu/",
-                        "text": "Scratch",
-                        "desc": "Scratch teaches you the fundamental basics that surround programming in a fun and interactive way!",
+                        "link": "https://codakid.com/kids-online-coding-courses/web-development-1/",
+                        "text": "CodaKid",
+                        "desc": "Aimed at young learners, CodaKid provides a fun gamified way of learning HTML/CSS.",
                         "type": "interactive"
+                    },
+                    {
+                        "link": "https://www.youtube.com/watch?v=boah9hNHhi0",
+                        "text": "HTML coding for kids and caveman",
+                        "desc": "A great series of youtube tutorials for HTML development by SuperCampus JR.",
+                        "type": "video"
                     }
 
                 ],
                 "useful_links": [
                     {
-                        "link": "https://codeburst.io/i-want-to-learn-programming-but-i-dont-know-where-to-start-80dd2d55e1fd",
-                        "text": "I want to program but don't know where to start",
-                        "desc": "Struggling to find a way to get into programming? This article will probably help you!",
+                        "link": "https://webdesign.tutsplus.com/tutorials/web-design-for-kids-welcome-to-tuts-town--cms-23680",
+                        "text": "Web Design for kids: Welcome to Tuts+ Town",
+                        "desc": "Tuts+ Town provide a great introducion to web design for kids.",
+                        "type": "Tutorial"
+                    },
+                    {
+                        "link": "https://www.lifewire.com/introduction-to-web-design-3470022",
+                        "text": "What is Web Design: An Introduction to the basics",
+                        "desc": "A short read that gives a great introduction to any beginner!",
                         "type": "article"
                     },
                     {
-                        "link": "https://www.bitdegree.org/tutorials/how-to-code-for-beginners/",
-                        "text": "How to code for Beginners",
-                        "desc": "A great read for anybody who is just starting in the coding industry"
-                    },
-                    {
-                        "link": "https://codeburst.io/i-want-to-learn-programming-but-i-dont-know-where-to-start-80dd2d55e1fd",
-                        "text": "I want to program but don't know where to start",
-                        "desc": "Struggling to find a way to get into programming? This article will probably help you!",
+                        "link": "https://developer.mozilla.org/en-US/docs/Web/Guide/Introduction_to_Web_development",
+                        "text": "Introduction to Web Development",
+                        "desc": "A detailed introdcution to Web Development from Mozilla.",
                         "type": "article"
                     },
                     {
-                        "link": "https://www.bitdegree.org/tutorials/how-to-code-for-beginners/",
-                        "text": "How to code for Beginners",
-                        "desc": "A great read for anybody who is just starting in the coding industry"
+                        "link": "https://eloquentjavascript.net/",
+                        "text": "Eloquent JavaScript",
+                        "desc": "A greatly detailed book on the ins and outs of JavaScript",
+                        "type": "book"
                     },
                     {
-                        "link": "https://codeburst.io/i-want-to-learn-programming-but-i-dont-know-where-to-start-80dd2d55e1fd",
-                        "text": "I want to program but don't know where to start",
-                        "desc": "Struggling to find a way to get into programming? This article will probably help you!",
-                        "type": "article"
-                    },
-                    {
-                        "link": "https://www.bitdegree.org/tutorials/how-to-code-for-beginners/",
-                        "text": "How to code for Beginners",
-                        "desc": "A great read for anybody who is just starting in the coding industry"
+                        "link": "http://www.htmlandcssbook.com/",
+                        "text": "HTML & CSS: Design and Build Websites",
+                        "desc": "A great book, full with graphics and information on HTML & CSS",
+                        "type": "book"
                     }
                 ],
                 "careers": [
                     {
-                        "link": "https://www.edutopia.org/discussion/coded-success-benefits-learning-program",
-                        "text": "School",
-                        "desc": "Find out what oppurtunities are available to you in school"
-                    },
-                    {
-                        "link": "https://www.cityofbristol.ac.uk/courses/programming-for-beginners/",
+                        "link": "https://www.wolvcoll.ac.uk/interest/web-development/",
                         "text": "College",
                         "desc": "Find out what oppurtunities are available to you at colleges at sixth forms"
                     },
                     {
-                        "link": "https://instituteofcoding.open.ac.uk/",
+                        "link": "https://www.whatuni.com/degree-courses/search?subject=website-development",
                         "text": "University",
                         "desc": "Ready for the big step? Find out what university has to offer you!"
                     },
                     {
-                        "link": "https://www.forbes.com/sites/forbestechcouncil/2017/10/18/considering-a-new-job-here-are-10-industries-in-need-of-programmers/#52cc15b05fe3",
+                        "link": "https://css-tricks.com/job-titles-in-the-web-industry/",
                         "text": "Industries",
                         "desc": "You've made it so far! Now it's time to find your ideal job!"
                     }
