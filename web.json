@@ -7,7 +7,7 @@
         "image": "/images/headerImages/CodingBanner1.png",
         "imageTab": "/images/headerImages/CodingBanner1.png",
         "imageMob": "/images/headerImages/CodingBanner1.png",
-        "content": [
+        "what": [
             {
                 "id": "intro-text",
                 "image": "/images/mainContentImages/codingImage1.png",
@@ -78,7 +78,7 @@
                 "colour": "linear-gradient(90deg,rgb(11,146,191),rgb(42,181,227))"
             }
         ],
-        "content2": [
+        "why": [
             {
                 "id": "explained",
                 "image": "/images/mainContentImages/robotics2.svg",
@@ -125,7 +125,7 @@
                 "colour": "linear-gradient(90deg,rgb(11,146,191),rgb(42,181,227))"
             }
         ],
-        "content3": [
+        "how": [
             {
                 "id": "HTML",
                 "mainHeader": "HTML",
