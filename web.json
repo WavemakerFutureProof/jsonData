@@ -69,15 +69,6 @@
                 "text": "The site can be accessed by it's 'URL' which is its unique web address. An example is Facebook who use 'www.Facebook.com' for their URL. "
             }
         ],
-        "bannerOne": [
-            {
-                "id": "what-is-web-banner",
-                "image": "/images/headerImages/codingBanner1.png",
-                "text": "So how does web development work?",
-                "desc": "Now you've learned the basics of web development, it's time to learn the the details of what makes a website function! ",
-                "colour": "linear-gradient(90deg,rgb(11,146,191),rgb(42,181,227))"
-            }
-        ],
         "why": [
             {
                 "id": "explained",
@@ -115,15 +106,6 @@
                 "text": "The final step is hosting the site! Web hosts exist all around the world and use a domain to connect the site to internet so it can be accessed across the world! "
             }
 
-        ],
-        "bannerTwo": [
-            {
-                "id": "types-of-languages",
-                "image": "/images/headerImages/codingBanner1.png",
-                "text": "What kind of languages are used for web?",
-                "desc": "From HTML to C#. Find out what languages are used in web and what they're used for.",
-                "colour": "linear-gradient(90deg,rgb(11,146,191),rgb(42,181,227))"
-            }
         ],
         "how": [
             {

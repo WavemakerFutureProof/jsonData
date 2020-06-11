@@ -64,15 +64,6 @@
                 "text": "They all rely on code to make them work."
             } 
         ],
-        "bannerOne": [
-            {
-                "id": "what-is-code-banner",
-                "image": "/images/headerImages/codingBanner1.png",
-                "text": "So what exactly is Code?",
-                "desc": "Learn the fundamentals of coding, and how it is used to create some of the most powerful machines , applications and robots in the world!",
-                "colour": "linear-gradient(90deg,rgb(11,146,191),rgb(42,181,227))"
-            }
-        ],
         "why": [
             {
                 "id": "code-precice",
@@ -105,15 +96,6 @@
                 "text": "You need to tell the computer what to do in these circumstances and how to behave."
             }
 
-        ],
-        "bannerTwo": [
-            {
-                "id": "types-of-languages",
-                "image": "/images/headerImages/codingBanner1.png",
-                "text": "What kind of languages are there?",
-                "desc": "That's right, there are thousands of programming languages in existence! Now it's time to learn about a few of them and what they do!",
-                "colour": "linear-gradient(90deg,rgb(11,146,191),rgb(42,181,227))"
-            }
         ],
         "how": [
             {
