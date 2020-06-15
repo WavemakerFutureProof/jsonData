@@ -545,13 +545,13 @@
         ],
         "previousNavigation": [
             {
-                "text": "Previous",
+                "text": "Artificial Intelligence",
                 "link": "/?page=web"
             }
         ],
         "nextNavigation": [
             {
-                "text": "Next",
+                "text": "Game Development",
                 "link": "/?page=codingIntro"
             }
         ]

@@ -532,15 +532,9 @@
                 ]
             }
         ],
-        "previousNavigation": [
-            {
-                "text": "Previous",
-                "link": "/?page=web"
-            }
-        ],
         "nextNavigation": [
             {
-                "text": "Next",
+                "text": "Robotics",
                 "link": "/?page=codingIntro"
             }
         ]
