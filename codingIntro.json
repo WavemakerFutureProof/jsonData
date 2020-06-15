@@ -532,13 +532,13 @@
                 ]
             }
         ],
-        "previous-navigation": [
+        "previousNavigation": [
             {
                 "text": "Previous",
                 "link": "/?page=web"
             }
         ],
-        "next-navigation": [
+        "nextNavigation": [
             {
                 "text": "Next",
                 "link": "/?page=codingIntro"
