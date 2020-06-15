@@ -531,6 +531,18 @@
                     }
                 ]
             }
+        ],
+        "previous-navigation": [
+            {
+                "text": "Previous",
+                "link": "/?page=web"
+            }
+        ],
+        "next-navigation": [
+            {
+                "text": "Next",
+                "link": "/?page=codingIntro"
+            }
         ]
     }
 ]
