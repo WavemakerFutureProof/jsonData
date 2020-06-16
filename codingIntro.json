@@ -7,6 +7,8 @@
         "image": "/images/headerImages/CodingBanner1.png",
         "imageTab": "/images/headerImages/CodingBanner1.png",
         "imageMob": "/images/headerImages/CodingBanner1.png",
+        "whatBannerText": "What exactly is Coding?",
+        "whatBannerDesc": "Find out what coding is and what we use it for!",
         "what": [
             {
                 "id": "intro-text",
@@ -64,6 +66,8 @@
                 "text": "They all rely on code to make them work."
             } 
         ],
+        "whyBannerText": "Why do we code?",
+        "whyBannerDesc": "Find out why us humans are so fond of programming and coding!",
         "why": [
             {
                 "id": "code-precice",
@@ -97,6 +101,8 @@
             }
 
         ],
+        "howBannerText": "How does it all work then?",
+        "howBannerDesc": "Find out how coding works!",
         "how": [
             {
                 "id": "java",
