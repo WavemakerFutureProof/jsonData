@@ -272,7 +272,7 @@
         "quizColour": "linear-gradient(90deg,rgb(11,146,191),rgb(42,181,227))",
         "quiz": [
             {
-                "id": "web-quiz",
+                "id": "introduction-to-web-quiz1",
                 "name": "Web Development Quiz",
                 "status": 200, 
                 "questions": [

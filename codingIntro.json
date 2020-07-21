@@ -325,7 +325,7 @@
         "quizColour": "linear-gradient(90deg,rgb(11,146,191),rgb(42,181,227))",
         "quiz": [
             {
-                "id": "coding-intro-quiz",
+                "id": "introduction-to-coding-quiz1",
                 "name": "Coding Introduction Quiz",
                 "status": 200, 
                 "questions": [
