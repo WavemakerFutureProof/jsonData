@@ -1,16 +1,18 @@
-{
-    "ok": true,
-    "status": 200,
-    "data": {
-      "nickname": "Sean Stevenson",
-      "profilePicture": "https://lh3.googleusercontent.com/a-/AAuE7mDOJCRQmf0VWBC4JwzLBt3-LttUHTg7sa9tWU77",
-      "points": 0,
-      "quizzesCompleted": [
-        "introduction-to-web-quiz1",
-        "introduction-to-coding-quiz1"
-      ],
-      "badges": [
-        "qyPGMvSDhQ5Vr79TNrdR"
-      ]
+[
+    {
+        "ok": true,
+        "status": 200,
+        "data": {
+        "nickname": "Sean Stevenson",
+        "profilePicture": "https://lh3.googleusercontent.com/a-/AAuE7mDOJCRQmf0VWBC4JwzLBt3-LttUHTg7sa9tWU77",
+        "points": 0,
+        "quizzesCompleted": [
+            "introduction-to-web-quiz1",
+            "introduction-to-coding-quiz1"
+        ],
+        "badges": [
+            "qyPGMvSDhQ5Vr79TNrdR"
+        ]
+        }
     }
-  }
+]
