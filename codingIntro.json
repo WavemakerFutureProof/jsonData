@@ -323,6 +323,7 @@
             }
         ],
         "quizColour": "linear-gradient(90deg,rgb(11,146,191),rgb(42,181,227))",
+        "quizId": "coding-intro-quiz-1",
         "resources": [
             {
                 "title": "Resources",
